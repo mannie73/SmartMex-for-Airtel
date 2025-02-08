@@ -1,2 +1,2 @@
 # SmartMex-for-Airtel
-Smartme Value Proposition for Airtel
+Smartmex Value Proposition for Airtel
